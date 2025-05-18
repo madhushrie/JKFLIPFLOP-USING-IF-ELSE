@@ -56,7 +56,8 @@ module exp7(q,qb,j,k,clock);
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot (1)](https://github.com/user-attachments/assets/7548a7ce-e420-42dd-a295-215765e9f084)
+![Screenshot (14)](https://github.com/user-attachments/assets/23eac507-e344-4950-abc1-b20e9192c302)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2025-05-17 110529](https://github.com/user-attachments/assets/5b027dac-4b2c-4485-bec9-915438cc6f23)
